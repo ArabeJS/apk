@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="rd.raafet.developer.inmt" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>RD-INMT</name>
+    <description>
+        A RD-INMT Raafet Lahmar app.
+    </description>
+    <author email="raafet1@gmail.com" href="http://raafet.ga">
+        Raafet Lahmar
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <engine name="browser" spec="~5.0.4" />
+    <plugin name="cordova-plugin-bluetooth-serial" spec="~0.4.7" />
+</widget>

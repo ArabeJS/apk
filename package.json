@@ -1,0 +1,16 @@
+{
+  "name": "rd.raafet.developer.inmt",
+  "version": "1.0.0",
+  "displayName": "RD_INMT",
+  "cordova": {
+    "platforms": [
+      "browser"
+    ],
+    "plugins": {
+      "cordova-plugin-bluetooth-serial": {}
+    }
+  },
+  "dependencies": {
+    "cordova-browser": "~5.0.4"
+  }
+}
